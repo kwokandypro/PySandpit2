@@ -1,0 +1,7 @@
+#!/bin/bash
+
+DOWNLOAD_DIR = 
+
+REPORT_TYPE_ID =
+
+FILE_NAME =
